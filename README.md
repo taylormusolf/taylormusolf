@@ -47,9 +47,9 @@
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary align="right">:zap: Most Used Languages</summary>
 
-<img align="left" alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
+<img align="right" alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
 
 </details>
 
