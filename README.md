@@ -39,20 +39,21 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<div display='flex'>
+ <details>
+   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true&hide_border=true" />
+   <img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true&hide_border=true" />
 
-</details>
+ </details>
 
-<details>
-  <summary align="right">:zap: Most Used Languages</summary>
+ <details>
+   <summary align="right">:zap: Most Used Languages</summary>
 
-<img align="right" alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
+ <img align="right" alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
 
-</details>
-
+ </details>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
 [portfolio]: https://taylormusolf.github.io
