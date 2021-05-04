@@ -1,6 +1,6 @@
 ### Hi there, I'm Taylor 👋
 
- <img align="right" padding-bottom='100px' alt="GIF" src="https://user-images.githubusercontent.com/71670060/116962263-5fd8a600-ac5a-11eb-97bb-e5bb58226877.gif" width="500" height="500" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116962263-5fd8a600-ac5a-11eb-97bb-e5bb58226877.gif" width="500" height="500" />
 
 ## I'm a Husband, Developer and Creator!
 - ✍ You can find my portfolio here [portfolio]
