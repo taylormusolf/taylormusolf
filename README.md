@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
 
-## I'm a Husband, Developer and Creator!
+## A Husband, Developer and Creator!
 - ✍ You can find my portfolio here [portfolio]
 - 🔭 I’m currently working on my polishing my open projects
 - 🌱 I’m currently learning React/Redux
