@@ -1,6 +1,7 @@
 ### Hi there, I'm Taylor 👋
 
 ## I'm a Husband, Developer and Creator!
+- ✍ You can find my portfolio here [portfolio]
 - 🔭 I’m currently working on my polishing my open projects
 - 🌱 I’m currently learning React/Redux
 - 👯 I’m looking to collaborate on new coding projects
