@@ -5,17 +5,12 @@
 - 💻 I'm a full-stack developer
 - 🌱 I use React-Redux and Ruby on Rails
 - ✍ You can find my portfolio [here][portfolio]
-- ❤️ Check out my game, Dyno!
+- ❤️ Check out my game, Dyno! It's a platforming game!
 - 🔭 I’m currently working on polishing my project, KickBacker
 - 👯 I’m looking to collaborate on new coding projects
 - ⚡ Fun fact: I love board games!
 - 📫 You can reach out to me at tcmusolf@gmail.com
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
-### You can find me here:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" />][angellist]
-<br />
-
 ### Languages and Tools:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
