@@ -2,17 +2,15 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
 
-## A Husband, Developer and Creator!
+- 💻 I'm a full-stack developer
+- 🌱 I use React-Redux and Ruby on Rails
 - ✍ You can find my portfolio [here][portfolio]
-- 🔭 I’m currently working on my polishing my open projects
-- 🌱 I’m currently learning React/Redux
+- ❤️ Check out my game, Dyno!
+- 🔭 I’m currently working on polishing my project, KickBacker
 - 👯 I’m looking to collaborate on new coding projects
-- 🤔 I’m looking for help with networking
-- 💬 Ask me about my game, Dyno!
-- 📫 How to reach me: tcmusolf@gmail.com
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love board games!
-
+- 📫 You can reach out to me at tcmusolf@gmail.com
+- 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 ### You can find me here:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" />][angellist]
@@ -39,17 +37,17 @@
 <br />
 <br />
 
- <details align="left">
-   <summary align="left"> :zap: GitHub Stats</summary>
+ <details closed>
+   <summary>GitHub Stats</summary>
 
-   <img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true&hide_border=true" />
+   <img alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true&hide_border=true" />
 
  </details>
 
- <details align="left">
-   <summary align="left">:zap: Most Used Languages</summary>
+ <details closed>
+   <summary>Most Used Languages</summary>
 
-   <img align="left" alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
+   <img alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
 
  </details>
 
