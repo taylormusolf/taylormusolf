@@ -1,6 +1,8 @@
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
+
 ### Hi there, I'm Taylor 👋
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
+ 
 
 - 💻 I'm a full-stack developer
 - ❤️ I am proficient in React-Redux and Ruby on Rails
