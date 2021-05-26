@@ -7,7 +7,7 @@
 - 💻 I'm a full-stack developer
 - ❤️ I am proficient in React-Redux and Ruby on Rails
 - ✍ You can find my portfolio [here][portfolio]
-- 🎮 Check out my game, Dyno! It's a platforming game!
+- 🎮 Check out my game, [Dyno!][dyno] It's a platforming game!
 - 🔭 I’m currently working on polishing my project, [KickBacker][kickbacker]
 - 👯 I’m looking to collaborate on new coding projects
 - 🎲 Fun fact: I love board games!
@@ -32,3 +32,4 @@
 [portfolio]: https://taylormusolf.github.io
 [angellist]: https://angel.co/u/taylor-musolf
 [kickbacker]: https://kickbacker.herokuapp.com/
+[dyno]: https://dyno.taylormusolf.com/
