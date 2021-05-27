@@ -4,7 +4,7 @@
 
  
 
-- 💻 I'm a full-stack developer
+- 💻 I'm a full-stack developer!
 - ❤️ I am proficient in React-Redux and Ruby on Rails
 - 🔭 I am proud of my Kickstarter clone, [KickBacker][kickbacker]
 - ✍ You can find my portfolio [here][portfolio]
