@@ -5,11 +5,11 @@
  
 
 - 💻 I'm a full-stack developer!
-- ❤️ I am proficient in React-Redux and Ruby on Rails
-- 🔭 I am proud of my Kickstarter clone, [KickBacker][kickbacker]
+- 💡 I am proficient in React-Redux and Ruby on Rails
+- ❤️ I am proud of my Kickstarter clone, [KickBacker][kickbacker]
 - ✍ You can find my portfolio [here][portfolio]
 - 🎮 Check out my game, [Dyno!][dyno] It's a platforming game!
-- 👯 I’m looking to collaborate on new coding projects
+- :rocket: I’m looking to collaborate on new coding projects
 - 🎲 Fun fact: I love board games!
 - 📫 You can reach out to me at tcmusolf@gmail.com
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
@@ -22,7 +22,7 @@
  </details>
 
  <details closed>
-   <summary>Most Used Languages 💡</summary>
+   <summary>Most Used Languages :lips:</summary>
 
    <img alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
 
