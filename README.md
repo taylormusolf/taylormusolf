@@ -7,7 +7,7 @@
 - 💻 I'm a full-stack developer!
 - 💡 I am proficient in React-Redux and Ruby on Rails
 - ❤️ I am proud of my Kickstarter clone, [KickBacker][kickbacker]
-- ✍ You can find my portfolio [here][portfolio]
+- ✍ You can find my portfolio site [here][portfolio]
 - 🎮 Check out my game, [Dyno!][dyno] It's a platforming game!
 - :rocket: I’m looking to collaborate on new coding projects
 - 🎲 Fun fact: I love board games!
