@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Taylor! 👋
 
- 
-
 - 💻 I'm a full-stack application developer!
 - 💡 I am proficient in React-Redux and Ruby on Rails
 - ❤️ I am proud of my Kickstarter clone, [KickBacker][kickbacker]
