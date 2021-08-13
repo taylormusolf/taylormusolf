@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Taylor! 👋
 
-- 💻 I'm a full-stack application developer!
+- 💻 I'm a software engineer!
 - 💡 I am proficient in React-Redux and Ruby on Rails
 - ❤️ I am proud of my Kickstarter clone, [KickBacker][kickbacker]
 - ✍ You can find my portfolio site [here][portfolio]
@@ -13,19 +13,13 @@
 - 📫 You can reach out to me at tcmusolf@gmail.com
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
- <details closed>
-   <summary>GitHub Stats 📈</summary>
 
-   <img alt="Taylor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- </details>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true)  
 
- <details closed>
-   <summary>Most Used Languages :lips:</summary>
-
-   <img alt="Taylor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf" />
-
- </details>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)  
+  
 
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
 [portfolio]: https://taylormusolf.github.io
