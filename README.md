@@ -6,7 +6,7 @@
 - 💡 I am proficient in React-Redux and Ruby on Rails
 - ❤️ I am proud of my Kickstarter clone, [KickBacker][kickbacker]
 - ✍ You can find my portfolio site [here][portfolio]
-- :eyes: I am in the process of learning Next.js
+- :eyes: I am currently working on a project that utilizes the OpenAI API!
 - 🎮 Check out my game, [Dyno!][dyno] It's a platforming game!
 - :rocket: I’m looking to collaborate on new coding projects
 - 🎲 Fun fact: I love board games!
