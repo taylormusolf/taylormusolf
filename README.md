@@ -3,7 +3,7 @@
 ### Hi there, I'm Taylor! 👋
 
 💻 I'm a software engineer! <br/>
-💡 I am currently working on a project that utilizes the OpenAI API! <br/>
+💡 I am currently working on a project utilizing OpenAI API! <br/>
 :eyes: Check it out [here][chatai] <br/>
 ❤️ I am proud of my Kickstarter clone, [KickBacker][kickbacker] <br/>
 ✍ You can find my portfolio site [here][portfolio] <br/>
