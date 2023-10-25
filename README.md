@@ -19,9 +19,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)  
   
-[chatai]: https://chat-with-ai-app-d519911d76bc.herokuapp.com/
+[chatai]: https://chatai.taylormusolf.com/
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
-[portfolio]: https://taylormusolf.github.io
-[angellist]: https://angel.co/u/taylor-musolf
-[kickbacker]: https://kickbacker.herokuapp.com/
+[portfolio]: https://taylormusolf.com/
+[angellist]: https://wellfound.com/u/taylor-musolf
+[kickbacker]: https://kickbacker.taylormusolf.com/
 [dyno]: https://dyno.taylormusolf.com/
