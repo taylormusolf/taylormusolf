@@ -17,7 +17,7 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)  -->
   
 [chatai]: https://chatai.taylormusolf.com/
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
