@@ -6,7 +6,6 @@
 💡 I am currently working on a project utilizing OpenAI API! <br/>
 :eyes: Check it out [here][chatai] <br/>
 ✍ You can find my portfolio site [here][portfolio] <br/>
-🎲 Fun fact: I love board games! <br/>
 📫 You can reach out to me at tcmusolf@gmail.com <br/>
 🔗 Want to connect? Find me on [LinkedIn][linkedin] <br/>
 
