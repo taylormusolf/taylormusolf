@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Taylor! 👋
 
-💻 I'm a software engineer! <br/>
+I'm a software engineer & developer born and raise in the San Francisco Bay Area.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my strengths lie in working closely with others to solve problems!
+
 💡 I am currently working on a project utilizing OpenAI API! <br/>
 :eyes: Check it out [here][chatai] <br/>
 ✍ You can find my portfolio site [here][portfolio] <br/>
