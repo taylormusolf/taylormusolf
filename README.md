@@ -4,8 +4,8 @@
 
 I'm a software engineer & developer born and raise in the San Francisco Bay Area.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my strengths lie in working closely with others to solve problems!
 
-💡 I am currently working on a project utilizing OpenAI API! <br/>
-:eyes: Check it out [here][chatai] <br/>
+💡 I am currently working on a project utilizing <a href="https://platform.openai.com/docs" target="_blank"><img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-FF6600?style=short-square&logo=openai&logoColor=white"></a> <br/>
+:eyes: Check it out here: [ChatAi][chatai] <br/>
 ✍ You can find my portfolio site [here][portfolio] <br/>
 📫 You can reach out to me at tcmusolf@gmail.com <br/>
 🔗 Want to connect? Find me on [LinkedIn][linkedin] <br/>
