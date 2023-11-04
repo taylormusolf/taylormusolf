@@ -10,7 +10,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 📫 You can reach out to me at tcmusolf@gmail.com <br/>
 🔗 Want to connect? Find me on [LinkedIn][linkedin] <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
@@ -55,8 +55,8 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
   
 </p>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)  -->
   
