@@ -57,8 +57,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)  -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)
   
 [chatai]: https://chatai.taylormusolf.com/
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
