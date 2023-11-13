@@ -47,7 +47,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 
 ### Learning:
 
-<p>
+<p align="left">
     <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue"></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
    <!-- <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
@@ -55,9 +55,9 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
   
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf) -->
   
 [chatai]: https://chatai.taylormusolf.com/
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
