@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
 
-### Hi there, I'm Taylor! 👋
+### Hi there, I'm Taylor!  👋
   
 
 I'm a software engineer & developer born and raise in the San Francisco Bay Area.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my strengths lie in working closely with others to solve problems!
