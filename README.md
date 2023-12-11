@@ -5,17 +5,41 @@
 
 I'm a software engineer & developer born and raise in the San Francisco Bay Area.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my strengths lie in working closely with others to solve problems!
 
-💡 I am currently working on a project utilizing <a href="https://platform.openai.com/docs" target="_blank"><img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-FF6600?style=short-square&logo=openai&logoColor=white"></a> <br/>
+💡 I am currently working on a project utilizing OpenAI <br/>
 👀 Check it out here: [ChatAi][chatai] <br/>
-✍ You can find my portfolio site [here][portfolio] <br/>
+🔗 Connect with me here: <br/>
 
+<a href="https://taylormusolf.com/" target=”_blank”><img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/></a>
 <a href="https://www.linkedin.com/in/taylor-musolf/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:tcmusolf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://wellfound.com/u/taylor-musolf" target="_blank"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/></a>
 
+<!-- <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,discord,twitter,instagram&perline=7" />
+  </a> -->
 
 ### Languages and Tools:
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,redux,html,css,express,mongodb,ruby,rails,scss,webpack,jest,aws,git,github,postgres,postman,vscode,heroku,md&perline=7" />
+  </a>
 
+### Next Up:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,typescript,nextjs,figma&perline=7" />
+  </a>
+
+
+
+### Github Status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true) -->
+
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)](https://git.io/streak-stats)
+
+### Here are things I can help with:
 <p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue">
@@ -47,21 +71,11 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
   <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-### Learning:
-
-<p align="left">
-    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue"></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-   <!-- <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true) -->
-
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)](https://git.io/streak-stats)
+### My Interests Include:
+- Board Games 🎲
+- Football 🏈
+- Reading 📚
+- Video Games 🎮
   
 [chatai]: https://chatai.taylormusolf.com/
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
