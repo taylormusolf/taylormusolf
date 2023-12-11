@@ -5,6 +5,12 @@
 
 I'm a software engineer & developer born and raise in the San Francisco Bay Area.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my strengths lie in working closely with others to solve problems!
 
+### My Interests Include:
+- Board Games 🎲
+- Football 🏈
+- Reading 📚
+- Video Games 🎮
+
 💡 I am currently working on a project utilizing OpenAI <br/>
 👀 Check it out here: [ChatAi][chatai] <br/>
 🔗 Connect with me here: <br/>
@@ -12,7 +18,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 <a href="https://taylormusolf.com/" target=”_blank”><img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/></a>
 <a href="https://www.linkedin.com/in/taylor-musolf/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:tcmusolf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-<a href="https://wellfound.com/u/taylor-musolf" target="_blank"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/></a>
+<a href="https://wellfound.com/u/taylor-musolf" target="_blank"><img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=Wellfound&logoColor=black" alt="AngelList Badge"/></a>
 
 <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin,discord,twitter,instagram&perline=7" />
@@ -31,7 +37,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 
 
 
-### Github Status
+### Github Status:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -71,11 +77,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
   <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-### My Interests Include:
-- Board Games 🎲
-- Football 🏈
-- Reading 📚
-- Video Games 🎮
+
   
 [chatai]: https://chatai.taylormusolf.com/
 [linkedin]: https://www.linkedin.com/in/taylor-musolf/
