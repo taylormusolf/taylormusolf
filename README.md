@@ -15,10 +15,10 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 👀 Check it out here: [ChatAi][chatai] <br/>
 🔗 Connect with me here: <br/>
 
-<a href="https://taylormusolf.com/" target=”_blank”><img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/></a>
-<a href="https://www.linkedin.com/in/taylor-musolf/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:tcmusolf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-<a href="https://wellfound.com/u/taylor-musolf" target="_blank"><img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=Wellfound&logoColor=black" alt="AngelList Badge"/></a>
+<a href="https://taylormusolf.com/" target=”_blank” ><img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/></a>
+<a href="https://www.linkedin.com/in/taylor-musolf/" target=”_blank” ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:tcmusolf@gmail.com" target=”_blank” ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://wellfound.com/u/taylor-musolf" target=”_blank” ><img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=Wellfound&logoColor=black" alt="AngelList Badge"/></a>
 
 <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin,discord,twitter,instagram&perline=7" />
