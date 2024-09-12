@@ -29,13 +29,13 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 
 ### Languages and Tools:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,redux,html,css,express,mongodb,ruby,rails,scss,webpack,jest,aws,git,github,postgres,postman,vscode,heroku,md&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,redux,html,css,express,mongodb,vite,python,fastapi,ruby,rails,scss,webpack,aws,git,github,postgres,postman,vscode,heroku,md&perline=6" />
   </a>
 
 ### Next Up:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,typescript,nextjs,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,figma&perline=7" />
   </a>
 
 
