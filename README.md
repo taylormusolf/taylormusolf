@@ -6,7 +6,7 @@
 ### Hi there, I'm Taylor! 👋
   
 
-I'm a software engineer & developer born and raise in the San Francisco Bay Area.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my joy comes from working closely with others to solve problems!
+I'm a software engineer born and raise in the San Francisco Bay Area and currently a Support Engineer at Retool.  I have worked as a sales engineer in medical device manufacturing industry striving to improve the lives of our end users, and I have also taught and mentored aspiring software engineers at a coding bootcamp.  I have learned that my joy comes from working closely with others to solve problems!
 
 ### My Interests Include:
 - Board Games 🎲
@@ -14,7 +14,7 @@ I'm a software engineer & developer born and raise in the San Francisco Bay Area
 - Reading 📚
 - Video Games 🎮
 
-💡 I am currently working on a project utilizing OpenAI <br/>
+💡 I built on a project utilizing OpenAI <br/>
 👀 Check it out here: [ChatAi][chatai] <br/>
 🔗 Connect with me here: <br/>
 
